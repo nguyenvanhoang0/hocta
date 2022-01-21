@@ -1,0 +1,173 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #ebebeb;
+}
+.a1 {
+}
+
+.b1 {
+    display: flex;
+    background-color: #777777;
+    height: 46px;
+}
+.e1 {
+	width: 10%;
+	display: flex;
+	margin-left: 3%;
+}
+.e2 {
+	width: 50%;
+	margin-left: 5%;
+}
+.g1 {
+	color: #777777;
+	background-color: #ebebeb;
+	font-size: 25px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 3%;
+    width: 22%;
+}
+.g2 {
+	margin-top: 5px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+.g3{
+	color: #20B2AA	;
+	background-color: #ebebeb;
+	font-size: 35px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 3%;
+    width: 22%;
+}
+
+.e2 {
+	width: 50%;
+	margin-left: 5%;
+}
+.e3 {
+	display: flex;
+	width: 15%;
+	margin-left: 21%;
+	margin-top: 20px;
+}
+.e4 {
+    font-size:50px ;
+    color:white ;
+    margin-top: 20px;
+}
+.e2 ul {
+	list-style-type: none;
+	display: flex;
+	width: 100%;
+}
+ .e2 li {
+	margin-left: 10px;
+	background-color: #ebebeb;
+	height: 30px;
+	color: #0000AA	;
+		cursor: pointer;
+
+}
+li:hover {
+	color: white;
+	background-color:#63B8FF	 ;
+}
+.b2 {
+	background-image:url(anh/pngtree-blue-atmospheric-background-image_50584.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+	display: flex;
+	height: 100px;
+}
+.f1 {
+	background-color: #0000CC	;
+	width: 30%;
+
+}
+input {
+	margin-top: 5px;
+	height: 30px;
+	margin-left: 10px;
+    width: 70%;
+}
+.f2{
+		height: 30px;
+		color:#0000CC;
+
+}
+.a2 {
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: white;
+	height: 10000px;
+	display: flex;
+}
+.b3 {
+	width: 20%;
+}
+.b4{
+	width: 76%;
+	margin-left: 2%;
+}
+.g4{
+	height: 50px;
+}
+.g5 {
+	height: 68px;
+}
+
+.e5 li {
+	margin-top: 5px;
+    background-color: #ebebeb;
+    padding: 5px;
+cursor: pointer;
+}
+.e5 li:hover {
+	background-color: #0000AA;
+}
+
+ul {
+	list-style-type: none;
+}
+.c1 {
+	display: flex;
+}
+.c2 {
+	display: flex;
+	margin-top: 10px;
+}
+.d1 {
+	width: 40%;
+	background-color: #66CDAA
+;
+}
+.d2 {
+	width: 28%;
+	margin-left: 2%;
+	background-color: #DA70D6;
+}
+#a1 {
+	background-color: #66CDAA
+;
+}
+.h4 {
+	margin-top: 10px;
+}
+
+img {
+	width: 100%;
+}
+.h1 {
+	height: 181px;
+}
+
+.h2 {
+	font-size: 25px;
+}
+.h3 {
+	font-size: 20px;
+}
